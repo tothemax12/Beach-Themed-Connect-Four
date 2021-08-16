@@ -1,0 +1,32 @@
+﻿  Source.cpp
+C:\Users\ander\Desktop\Programs\C++ Programs\smfl-connect-4\smfl-connect-4\Source.cpp(149,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ander\Desktop\Programs\C++ Programs\smfl-connect-4\smfl-connect-4\Source.cpp(259,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ander\Desktop\Programs\C++ Programs\smfl-connect-4\smfl-connect-4\Source.cpp(300,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ander\Desktop\Programs\C++ Programs\smfl-connect-4\smfl-connect-4\Source.cpp(326,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ander\Desktop\Programs\C++ Programs\smfl-connect-4\smfl-connect-4\Source.cpp(329,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ander\Desktop\Programs\C++ Programs\smfl-connect-4\smfl-connect-4\Source.cpp(343,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ander\Desktop\Programs\C++ Programs\smfl-connect-4\smfl-connect-4\Source.cpp(349,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ander\Desktop\Programs\C++ Programs\smfl-connect-4\smfl-connect-4\Source.cpp(355,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ander\Desktop\Programs\C++ Programs\smfl-connect-4\smfl-connect-4\Source.cpp(363,24): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ander\Desktop\Programs\C++ Programs\smfl-connect-4\smfl-connect-4\Source.cpp(181): warning C4715: 'placePiece': not all control paths return a value
+  smfl-connect-4.vcxproj -> C:\Users\ander\Desktop\Programs\C++ Programs\smfl-connect-4\Debug\smfl-connect-4.exe
